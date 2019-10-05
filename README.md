@@ -15,7 +15,7 @@ Topics include Operating Systems, Computer Architecture, Computer Networking, Di
 
 ### GPU
 
-##Benchmarks
+## Benchmarks
 * [SPEC](https://www.spec.org/cpu/): Standard Performance Evaluation Corporation Benchmarks for CPUs
 
 ## Reference Guides
