@@ -15,6 +15,9 @@ Topics include Operating Systems, Computer Architecture, Computer Networking, Di
 
 ### GPU
 
+##Benchmarks
+* [SPEC](https://www.spec.org/cpu/): Standard Performance Evaluation Corporation Benchmarks for CPUs
+
 ## Reference Guides
 ### Parallel Programming
 * [PTX Guide](http://docs.nvidia.com/cuda/parallel-thread-execution/index.html): Guide for NVidia's PTX, a low-level parallel thread execution virtual machine and instruction set architecture (ISA).
