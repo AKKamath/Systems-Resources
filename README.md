@@ -11,8 +11,12 @@ Topics include Operating Systems, Computer Architecture, Computer Networking, Di
 * [GEM5](http://gem5.org/Main_Page): The gem5 simulator is a modular platform for computer-system architecture research, encompassing system-level architecture as well as processor microarchitecture.
 * [QFLEX](https://qflex.epfl.ch/): The QFlex project targets quick, accurate, and flexible simulation of multi-node computer systems.
 * [QEMU](https://www.qemu.org/): QEMU is a generic and open source machine emulator and virtualizer.
+* [SimFlex](https://parsa.epfl.ch/simflex/): Fast, Accurate & Flexible Computer Architecture Simulation.
 
 ### GPU
+
+## Benchmarks
+* [SPEC](https://www.spec.org/cpu/): Standard Performance Evaluation Corporation Benchmarks for CPUs
 
 ## Reference Guides
 ### Parallel Programming
